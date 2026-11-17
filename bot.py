@@ -8,7 +8,7 @@ ADMIN_CHAT_ID = "8607494475"
 
 # GitHub Configuration
 GITHUB_TOKEN = (
-    "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"
+    "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"
 )
 REPO_OWNER = "swt21200"  # Your GitHub Username
 REPO_NAME = "bot"  # Your Repository Name
